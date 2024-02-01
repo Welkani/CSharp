@@ -1,6 +1,3 @@
-﻿
-
-Console.WriteLine("Quel est votre nom ?");
+﻿Console.Write("Quel est votre nom ? ");
 string reponse = Console.ReadLine();
-Console.WriteLine($"Vous vous appelez {reponse}");
-
+Console.WriteLine($"Vous vous appelez {reponse} ");

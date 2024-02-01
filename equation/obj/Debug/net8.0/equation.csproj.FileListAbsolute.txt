@@ -1,0 +1,15 @@
+C:\Users\bapti\Desktop\CSharp\equation\bin\Debug\net8.0\equation.exe
+C:\Users\bapti\Desktop\CSharp\equation\bin\Debug\net8.0\equation.deps.json
+C:\Users\bapti\Desktop\CSharp\equation\bin\Debug\net8.0\equation.runtimeconfig.json
+C:\Users\bapti\Desktop\CSharp\equation\bin\Debug\net8.0\equation.dll
+C:\Users\bapti\Desktop\CSharp\equation\bin\Debug\net8.0\equation.pdb
+C:\Users\bapti\Desktop\CSharp\equation\obj\Debug\net8.0\equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bapti\Desktop\CSharp\equation\obj\Debug\net8.0\equation.AssemblyInfoInputs.cache
+C:\Users\bapti\Desktop\CSharp\equation\obj\Debug\net8.0\equation.AssemblyInfo.cs
+C:\Users\bapti\Desktop\CSharp\equation\obj\Debug\net8.0\equation.csproj.CoreCompileInputs.cache
+C:\Users\bapti\Desktop\CSharp\equation\obj\Debug\net8.0\equation.sourcelink.json
+C:\Users\bapti\Desktop\CSharp\equation\obj\Debug\net8.0\equation.dll
+C:\Users\bapti\Desktop\CSharp\equation\obj\Debug\net8.0\refint\equation.dll
+C:\Users\bapti\Desktop\CSharp\equation\obj\Debug\net8.0\equation.pdb
+C:\Users\bapti\Desktop\CSharp\equation\obj\Debug\net8.0\equation.genruntimeconfig.cache
+C:\Users\bapti\Desktop\CSharp\equation\obj\Debug\net8.0\ref\equation.dll

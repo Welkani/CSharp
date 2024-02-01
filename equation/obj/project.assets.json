@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bapti\\Desktop\\CSharp\\Base1\\Base1.csproj",
-      "projectName": "Base1",
-      "projectPath": "C:\\Users\\bapti\\Desktop\\CSharp\\Base1\\Base1.csproj",
+      "projectUniqueName": "C:\\Users\\bapti\\Desktop\\CSharp\\equation\\equation.csproj",
+      "projectName": "equation",
+      "projectPath": "C:\\Users\\bapti\\Desktop\\CSharp\\equation\\equation.csproj",
       "packagesPath": "C:\\Users\\bapti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bapti\\Desktop\\CSharp\\Base1\\obj\\",
+      "outputPath": "C:\\Users\\bapti\\Desktop\\CSharp\\equation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bapti\\AppData\\Roaming\\NuGet\\NuGet.Config"
