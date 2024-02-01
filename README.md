@@ -1,1 +1,1 @@
-Dépôt des exercices C#
+Dépôt des exercices CSharp
