@@ -1,38 +1,39 @@
-﻿System.Console.WriteLine("------------Equation du premier degré---------");
-System.Console.WriteLine("Entrez a :");
-double a = Convert.ToDouble(System.Console.ReadLine());
+﻿Console.WriteLine("------------Equation du premier degré---------");
+Console.WriteLine("Entrez a :");
+double a = Convert.ToDouble(Console.ReadLine());
 
-System.Console.WriteLine("Entrez b :");
-double b = Convert.ToDouble(System.Console.ReadLine());
+Console.WriteLine("Entrez b :");
+double b = Convert.ToDouble(Console.ReadLine());
+
 
 
 if (a == 0)
 {
     if (b == 0)
     {
-        System.Console.WriteLine("L'équation a une infinité de solutions.");
+        Console.WriteLine("L'équation a une infinité de solutions.");
     }
     else
     {
-        System.Console.WriteLine("L'équation n'a pas de solution.");
+        Console.WriteLine("L'équation n'a pas de solution.");
     }
 }
 else
 {
 
     double solution = -b / a;
-    System.Console.WriteLine("La solution de l'équation est : x = " + solution);
+    Console.WriteLine("La solution de l'équation est : x = " + solution);
 }
 
-System.Console.WriteLine("------------Equation du second degré---------");
-System.Console.WriteLine("Entrez a :");
-double c = Convert.ToDouble(System.Console.ReadLine());
+Console.WriteLine("------------Equation du second degré---------");
+Console.WriteLine("Entrez a :");
+double c = Convert.ToDouble(Console.ReadLine());
 
-System.Console.WriteLine("Entrez b :");
-double d = Convert.ToDouble(System.Console.ReadLine());
+Console.WriteLine("Entrez b :");
+double d = Convert.ToDouble(Console.ReadLine());
 
-System.Console.WriteLine("Entrez c :");
-double e = Convert.ToDouble(System.Console.ReadLine());
+Console.WriteLine("Entrez c :");
+double e = Convert.ToDouble(Console.ReadLine());
 
 double delta = d * d - 4 * c * e;
 
