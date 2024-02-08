@@ -1,0 +1,15 @@
+C:\Users\bapti\Desktop\CSharp\NombreMystere\obj\Debug\net8.0\NombreMystere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bapti\Desktop\CSharp\NombreMystere\obj\Debug\net8.0\NombreMystere.AssemblyInfoInputs.cache
+C:\Users\bapti\Desktop\CSharp\NombreMystere\obj\Debug\net8.0\NombreMystere.AssemblyInfo.cs
+C:\Users\bapti\Desktop\CSharp\NombreMystere\obj\Debug\net8.0\NombreMystere.csproj.CoreCompileInputs.cache
+C:\Users\bapti\Desktop\CSharp\NombreMystere\obj\Debug\net8.0\NombreMystere.sourcelink.json
+C:\Users\bapti\Desktop\CSharp\NombreMystere\bin\Debug\net8.0\NombreMystere.exe
+C:\Users\bapti\Desktop\CSharp\NombreMystere\bin\Debug\net8.0\NombreMystere.deps.json
+C:\Users\bapti\Desktop\CSharp\NombreMystere\bin\Debug\net8.0\NombreMystere.runtimeconfig.json
+C:\Users\bapti\Desktop\CSharp\NombreMystere\bin\Debug\net8.0\NombreMystere.dll
+C:\Users\bapti\Desktop\CSharp\NombreMystere\bin\Debug\net8.0\NombreMystere.pdb
+C:\Users\bapti\Desktop\CSharp\NombreMystere\obj\Debug\net8.0\NombreMystere.dll
+C:\Users\bapti\Desktop\CSharp\NombreMystere\obj\Debug\net8.0\refint\NombreMystere.dll
+C:\Users\bapti\Desktop\CSharp\NombreMystere\obj\Debug\net8.0\NombreMystere.pdb
+C:\Users\bapti\Desktop\CSharp\NombreMystere\obj\Debug\net8.0\NombreMystere.genruntimeconfig.cache
+C:\Users\bapti\Desktop\CSharp\NombreMystere\obj\Debug\net8.0\ref\NombreMystere.dll
