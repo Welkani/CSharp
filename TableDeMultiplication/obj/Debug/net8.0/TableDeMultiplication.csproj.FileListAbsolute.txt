@@ -1,0 +1,15 @@
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\bin\Debug\net8.0\TableDeMultiplication.exe
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\bin\Debug\net8.0\TableDeMultiplication.deps.json
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\bin\Debug\net8.0\TableDeMultiplication.runtimeconfig.json
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\bin\Debug\net8.0\TableDeMultiplication.dll
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\bin\Debug\net8.0\TableDeMultiplication.pdb
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\obj\Debug\net8.0\TableDeMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\obj\Debug\net8.0\TableDeMultiplication.AssemblyInfoInputs.cache
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\obj\Debug\net8.0\TableDeMultiplication.AssemblyInfo.cs
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\obj\Debug\net8.0\TableDeMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\obj\Debug\net8.0\TableDeMultiplication.sourcelink.json
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\obj\Debug\net8.0\TableDeMultiplication.dll
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\obj\Debug\net8.0\refint\TableDeMultiplication.dll
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\obj\Debug\net8.0\TableDeMultiplication.pdb
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\obj\Debug\net8.0\TableDeMultiplication.genruntimeconfig.cache
+C:\Users\bapti\Desktop\CSharp\TableDeMultiplication\obj\Debug\net8.0\ref\TableDeMultiplication.dll

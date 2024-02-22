@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bapti\\Desktop\\CSharp\\Variables\\Variables.csproj": {}
+    "C:\\Users\\bapti\\Desktop\\CSharp\\TableDeMultiplication\\TableDeMultiplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bapti\\Desktop\\CSharp\\Variables\\Variables.csproj": {
+    "C:\\Users\\bapti\\Desktop\\CSharp\\TableDeMultiplication\\TableDeMultiplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bapti\\Desktop\\CSharp\\Variables\\Variables.csproj",
-        "projectName": "Variables",
-        "projectPath": "C:\\Users\\bapti\\Desktop\\CSharp\\Variables\\Variables.csproj",
+        "projectUniqueName": "C:\\Users\\bapti\\Desktop\\CSharp\\TableDeMultiplication\\TableDeMultiplication.csproj",
+        "projectName": "TableDeMultiplication",
+        "projectPath": "C:\\Users\\bapti\\Desktop\\CSharp\\TableDeMultiplication\\TableDeMultiplication.csproj",
         "packagesPath": "C:\\Users\\bapti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bapti\\Desktop\\CSharp\\Variables\\obj\\",
+        "outputPath": "C:\\Users\\bapti\\Desktop\\CSharp\\TableDeMultiplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bapti\\AppData\\Roaming\\NuGet\\NuGet.Config"
