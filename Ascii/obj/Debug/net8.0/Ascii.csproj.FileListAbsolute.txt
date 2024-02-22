@@ -1,0 +1,15 @@
+C:\Users\bapti\Desktop\CSharp\Ascii\bin\Debug\net8.0\Ascii.exe
+C:\Users\bapti\Desktop\CSharp\Ascii\bin\Debug\net8.0\Ascii.deps.json
+C:\Users\bapti\Desktop\CSharp\Ascii\bin\Debug\net8.0\Ascii.runtimeconfig.json
+C:\Users\bapti\Desktop\CSharp\Ascii\bin\Debug\net8.0\Ascii.dll
+C:\Users\bapti\Desktop\CSharp\Ascii\bin\Debug\net8.0\Ascii.pdb
+C:\Users\bapti\Desktop\CSharp\Ascii\obj\Debug\net8.0\Ascii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bapti\Desktop\CSharp\Ascii\obj\Debug\net8.0\Ascii.AssemblyInfoInputs.cache
+C:\Users\bapti\Desktop\CSharp\Ascii\obj\Debug\net8.0\Ascii.AssemblyInfo.cs
+C:\Users\bapti\Desktop\CSharp\Ascii\obj\Debug\net8.0\Ascii.csproj.CoreCompileInputs.cache
+C:\Users\bapti\Desktop\CSharp\Ascii\obj\Debug\net8.0\Ascii.sourcelink.json
+C:\Users\bapti\Desktop\CSharp\Ascii\obj\Debug\net8.0\Ascii.dll
+C:\Users\bapti\Desktop\CSharp\Ascii\obj\Debug\net8.0\refint\Ascii.dll
+C:\Users\bapti\Desktop\CSharp\Ascii\obj\Debug\net8.0\Ascii.pdb
+C:\Users\bapti\Desktop\CSharp\Ascii\obj\Debug\net8.0\Ascii.genruntimeconfig.cache
+C:\Users\bapti\Desktop\CSharp\Ascii\obj\Debug\net8.0\ref\Ascii.dll

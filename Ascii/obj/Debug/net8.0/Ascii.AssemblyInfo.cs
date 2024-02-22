@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TableDeMultiplication")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Ascii")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbf59341ba23b5134457cf050404522752b25946")]
-[assembly: System.Reflection.AssemblyProductAttribute("TableDeMultiplication")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TableDeMultiplication")]
+[assembly: System.Reflection.AssemblyProductAttribute("Ascii")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Ascii")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
