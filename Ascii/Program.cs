@@ -1,8 +1,8 @@
-﻿
-Console.WriteLine("Entrez votre paragraphe (terminer en appuyant sur Entrée deux fois):");
+﻿Console.WriteLine("Entrez votre paragraphe (terminer en appuyant sur Entrée deux fois):");
 
 List<string> lines = new List<string>();
 string line;
+
 while (!string.IsNullOrWhiteSpace(line = Console.ReadLine()))
 {
     lines.Add(line);
@@ -27,7 +27,5 @@ foreach (string l in lines)
 }
 
 Console.WriteLine("╚" + new string('═', maxLength+4) + "╝");
-    
-
 
 

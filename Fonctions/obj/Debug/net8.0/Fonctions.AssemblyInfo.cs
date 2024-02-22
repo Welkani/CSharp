@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Ascii")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Fonctions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f1ad1dbbcda14c101d7620372f506d011e11d3e")]
-[assembly: System.Reflection.AssemblyProductAttribute("Ascii")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Ascii")]
+[assembly: System.Reflection.AssemblyProductAttribute("Fonctions")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Fonctions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
