@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Veuillez entrer votre texte : ");
+﻿
 Console.WriteLine("Entrez votre paragraphe (terminer en appuyant sur Entrée deux fois):");
 
 List<string> lines = new List<string>();
